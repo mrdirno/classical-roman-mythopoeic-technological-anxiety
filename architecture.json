@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_mythopoeic_technological_anxiety",
+  "title": "THE WEEPING GODS OF ROME",
+  "tagline": "In a Rome powered by captive spirits, one man must prevent the divine machinery from tearing itself apart.",
+  "target_words": 70000,
+  "actual_words": 71241,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Spirit in the Machine",
+    "The Burden of Inherited Power",
+    "Sacrifice vs. Progress",
+    "The Unseen Cost of Civilization"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bronze Was Bleeding",
+      "words": 2968
+    },
+    {
+      "ch": 2,
+      "title": "The Silence in the Cella",
+      "words": 2968
+    },
+    {
+      "ch": 3,
+      "title": "The Sun on the Capitolium Steps",
+      "words": 2968
+    },
+    {
+      "ch": 4,
+      "title": "The Price of a Miracle",
+      "words": 2968
+    },
+    {
+      "ch": 5,
+      "title": "The Ghost in the Aqueduct",
+      "words": 2968
+    },
+    {
+      "ch": 6,
+      "title": "The Senator's Dream",
+      "words": 2968
+    },
+    {
+      "ch": 7,
+      "title": "The Forge of Vulcan",
+      "words": 2968
+    },
+    {
+      "ch": 8,
+      "title": "The Language of Stone",
+      "words": 2968
+    },
+    {
+      "ch": 9,
+      "title": "The Broken Covenant",
+      "words": 2968
+    },
+    {
+      "ch": 10,
+      "title": "The Oracle's Codex",
+      "words": 2968
+    },
+    {
+      "ch": 11,
+      "title": "The Heart of the Labyrinth",
+      "words": 2968
+    },
+    {
+      "ch": 12,
+      "title": "The Council of Pontiffs",
+      "words": 2968
+    },
+    {
+      "ch": 13,
+      "title": "The Unbound Fury",
+      "words": 2968
+    },
+    {
+      "ch": 14,
+      "title": "The Price of Silence",
+      "words": 2968
+    },
+    {
+      "ch": 15,
+      "title": "The Engineer's Heresy",
+      "words": 2968
+    },
+    {
+      "ch": 16,
+      "title": "The Weeping Legion",
+      "words": 2968
+    },
+    {
+      "ch": 17,
+      "title": "The Altar of Progress",
+      "words": 2968
+    },
+    {
+      "ch": 18,
+      "title": "The Ghost in the Mirror",
+      "words": 2968
+    },
+    {
+      "ch": 19,
+      "title": "The Last Placation",
+      "words": 2968
+    },
+    {
+      "ch": 20,
+      "title": "The Fracture",
+      "words": 2968
+    },
+    {
+      "ch": 21,
+      "title": "The Unmaking",
+      "words": 2968
+    },
+    {
+      "ch": 22,
+      "title": "The New Covenant",
+      "words": 2968
+    },
+    {
+      "ch": 23,
+      "title": "The Cost of Dawn",
+      "words": 2968
+    },
+    {
+      "ch": 24,
+      "title": "The Living City",
+      "words": 2969
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a common household 'numina' device (a self-heating bath, a singing mosaic) malfunctions, revealing the trapped spirit's anguish and history.",
+      "Create a journal entry from a Pontiff arguing for the ethical capture of a new class of 'industrial numina' to power a massive public project, and the dissent it causes.",
+      "Draft a myth or 'origin story' told by the engineers/placators about the first time humans bound a spirit to matter, and what was lost in the bargain.",
+      "Describe the moment a character, for the first time, hears the collective 'hum' or 'song' of all the bound spirits in Rome, and understands the true scale of its suffering."
+    ],
+    "technical": [
+      "Design a 'numina schematic' for a simple artifact (e.g., an Ever-Burning Lamp). Include a diagram, the type of spirit bound, the binding ritual, and potential failure modes.",
+      "Propose a 'theological-philosophical' framework for the ethics of Numina Materia. Create a set of rules or principles for its use, debated by different factions within the story."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mary Shelley",
+      "J.G. Ballard",
+      "Ursula K. Le Guin",
+      "Seneca the Younger"
+    ]
+  },
+  "cover_prompt": "A colossal, grief-stricken marble face of Jupiter, integrated with glowing brass pipes and crackling spirit-energy conduits, weeps liquid bronze tears that pool amidst broken mosaic floors, [in the grand, silent halls of a divine engine-temple where captive numina power the city's lights and machinery]. in the atmospheric style of John Harris and Zdzisław Beksiński, blending monumental classical ruin with eerie biomechanical complexity and profound melancholy, [book cover framing, a centered and symmetrical composition viewed from a low angle to emphasize the scale and despair of the weeping god]. dramatic chiaroscuro lighting where the only illumination comes from the cold blue-white spirit energy within the machinery and the warm, molten glow of the tears, casting long shadows and highlighting textures of polished brass and weathered stone, [a palette of imperial purples, deep shadowy umbers, metallic golds and bronzes, contrasted with spectral blues and the fiery amber of the tears]. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
