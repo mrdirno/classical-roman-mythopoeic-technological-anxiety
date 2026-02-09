@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The bronze was bleeding.
+Caius’s hands knew the bronze before his mind did, the familiar chill of the casting mold. But this time, the metal in the crucible sang a different note—a clear, sharp tone that vibrated in his teeth, a sound no earthly ore should make.
+
 
 It wept in slow, viscous tears down the fluted column of the leg, pooling in the joint of the ankle before dripping onto the white Carrara marble of the atrium floor. *Plink. Plink.* A sound like a slow, metallic heartbeat. Lucius Valerius Corvus watched the drip, the only movement in the still, dawn-chilled air of the great house. He did not move to stop it. He knew better.
 
