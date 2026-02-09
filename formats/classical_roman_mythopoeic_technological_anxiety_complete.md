@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The bronze was bleeding.
@@ -140,6 +142,8 @@ Lucius turned to Livia, her face etched in the eerie glow. “Stay behind me. To
 
 He took a deep breath of the charged, sacred air, and crossed the threshold into the god’s house.
 
+# Chapter 2
+
 ## CHAPTER 2
 
 Sound died inside the *cella*. Not silence, but an absorption, as if the vast space drank noise. Their footsteps, the rustle of their clothing, their breath—all were swallowed by the immense, waiting presence. The greenish light had no single source. It clung to the surfaces of things: the polished marble floor, the colossal columns that rose into darkness, the edges of the great altar. It made the world seem submerged.
@@ -252,6 +256,8 @@ It was not the stern, fatherly visage from the coins. The marble face was contor
 Then Lucius threw himself through the door, into the blinding white light of the Roman sun and the stunned, terrified faces of the Consul and the Pontifex Maximus.
 
 The bronze door slammed shut behind him with a final, deafening crash, as if the god had thrown it closed himself.
+
+# Chapter 3
 
 ## CHAPTER 3
 
